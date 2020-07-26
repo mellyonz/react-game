@@ -15,7 +15,6 @@ export default function LoginScreen() {
 
   const onLoginPress = () => {
   }
-
   return (
     <View style={styles.container}>
       <KeyboardAwareScrollView
